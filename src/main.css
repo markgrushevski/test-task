@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    font-size: 16px;
+}
+
+input {
+    font-size: 1em;
+}
+
+body {
+    margin: 0;
+
+    width: 100vw;
+    height: 100vh;
+}
